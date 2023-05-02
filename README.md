@@ -1,2 +1,3 @@
 # Portfolio
-Portfolio Showcase
+
+This is meant to be a showcase of my skills as a website
